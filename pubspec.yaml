@@ -16,6 +16,11 @@ dependencies:
   logger: ^2.5.0
   get: ^4.7.2
   email_validator: ^3.0.0
+  google_maps_flutter: ^2.10.1
+  table_calendar: ^3.0.9
+  shared_preferences: ^2.2.2
+  flutter_secure_storage: ^9.2.4
+  geolocator: ^10.1.0
 
 dev_dependencies:
   flutter_test:
